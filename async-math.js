@@ -1,7 +1,3 @@
-/**
- * SlowMath Library
- * Covalence, LLC
- */
 let slowMath = (function() {
     const wait = (delay) => {
         return new Promise((resolve, reject) => {
